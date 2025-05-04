@@ -29,6 +29,7 @@ Project featured:
 •	To rigorously evaluate the resilience of the constructed defence system, I conducted simulations of diverse attacks using Kali Linux. These simulated attacks included common tactics such as brute force attempts, port scanning, and malware injection, allowing me to test the system's ability to detect and potentially block these threats.
 I emphasize that this practical project not only deepened my understanding of security architecture principles but also reinforced the critical importance of proactive surveillance and implementing multi-layered defences to effectively protect a network. I now eager to apply these acquired competencies in a professional cybersecurity role to help organizations anticipate and mitigate emerging risks.
 - �� [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- ![image alt](https://github.com/ej5ackson/ej5ackson.github.io/blob/main/A%20screenshot%20illustrates%20Wazuh%20dashboard%20overview%20after%20the%20attack.jpg)
 - �� https://github.com/ej5ackson/ej5ackson.github.io/blob/main/A%20screenshot%20illustrates%20Wazuh%20dashboard%20overview%20after%20the%20attack.jpg
 an external site)
 ### ��️ Skills
