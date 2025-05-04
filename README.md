@@ -33,7 +33,7 @@ I emphasize that this practical project not only deepened my understanding of se
 - ![image alt](https://github.com/ej5ackson/ej5ackson.github.io/blob/main/A%20screenshot%20illustrates%20configuring%20Snort%20LAN%20settings%20on%20pfSense.jpg)
 - ![image alt](https://github.com/ej5ackson/ej5ackson.github.io/blob/main/A%20screenshot%20illustrates%20the%20firewall%20rules%20that%20have%20been%20configured%20to%20block%20access%20to%20SSH%20(port%2022)%20from%20specific%20untrusted%20sites..jpg)
 - ![image alt](https://github.com/ej5ackson/ej5ackson.github.io/blob/main/Displays%20a%20screenshot%20of%20the%20Installed%20Rules%20and%20updating%20Snort%20settings%20on%20pfSense.jpg)
-- ![image alt]()
+- ![image alt](https://github.com/ej5ackson/ej5ackson.github.io/blob/main/Displays%20a%20screenshot%20of%20the%20capturing%20network%20traffic%2C%20focusing%20on%20HTTP%20in%20Wireshark.jpg)
 - ��![image alt]()
 an external site)
 ### ��️ Skills
