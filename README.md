@@ -4,7 +4,7 @@ My core mission is to ensure the confidentiality, integrity, and availability of
 My journey into cybersecurity began with a 
 markdown
 CopyEdit
-# Hi, Hello Evans Martey Jackson Korley!
+# Hi, Hello Evans Martey Jackson Korley
 ### Dynamic, detail-oriented Cybersecurity Analyst with 10+ years in engineering/cybersecurity. Safeguards infrastructure via advanced configurations, log/network analysis (Wireshark, TCPDump), and incident response (SIEM). Conducts audits aligning with CIA/DAD, improving security and compliance. Engineering background bolsters structured thinking and operational excellence.
 -  Cybersecurity specialists identify and analyze threats, manage security systems, find vulnerabilities, create policies, respond to incidents, train users, ensure compliance, monitor activity, and secure data.
 -  Threat Intelligence: Understanding and analyzing current and emerging threats.Vulnerability Assessment: Identifying weaknesses in systems and networks.Incident Response: Handling and mitigating security breaches.
