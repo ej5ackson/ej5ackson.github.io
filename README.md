@@ -34,7 +34,7 @@ I emphasize that this practical project not only deepened my understanding of se
 - ![image alt](https://github.com/ej5ackson/ej5ackson.github.io/blob/main/A%20screenshot%20illustrates%20the%20firewall%20rules%20that%20have%20been%20configured%20to%20block%20access%20to%20SSH%20(port%2022)%20from%20specific%20untrusted%20sites..jpg)
 - ![image alt](https://github.com/ej5ackson/ej5ackson.github.io/blob/main/Displays%20a%20screenshot%20of%20the%20Installed%20Rules%20and%20updating%20Snort%20settings%20on%20pfSense.jpg)
 - ![image alt](https://github.com/ej5ackson/ej5ackson.github.io/blob/main/Displays%20a%20screenshot%20of%20the%20capturing%20network%20traffic%2C%20focusing%20on%20HTTP%20in%20Wireshark.jpg)
-- ��![image alt]()
+- ��![image alt](https://github.com/ej5ackson/ej5ackson.github.io/blob/main/Wazuh%20dashboard%20illustrates%20a%20range%20of%20detected%20threats%20related%20to%20threat%20hunting.jpg)
 an external site)
 ### ��️ Skills
 - **Technical Expertise**: Web &amp; Application Security, Penetration Testing,
