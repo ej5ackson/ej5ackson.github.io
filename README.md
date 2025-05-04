@@ -31,7 +31,7 @@ I emphasize that this practical project not only deepened my understanding of se
 - �� [LinkedIn Profile](https://linkedin.com/in/yourprofile)
 - ![image alt](https://github.com/ej5ackson/ej5ackson.github.io/blob/main/A%20screenshot%20illustrates%20Wazuh%20dashboard%20overview%20after%20the%20attack.jpg)
 - ![image alt](https://github.com/ej5ackson/ej5ackson.github.io/blob/main/A%20screenshot%20illustrates%20configuring%20Snort%20LAN%20settings%20on%20pfSense.jpg)
-- ![image alt]()
+- ![image alt](https://github.com/ej5ackson/ej5ackson.github.io/blob/main/A%20screenshot%20illustrates%20the%20firewall%20rules%20that%20have%20been%20configured%20to%20block%20access%20to%20SSH%20(port%2022)%20from%20specific%20untrusted%20sites..jpg)
 - ![image alt]()
 - ![image alt]()
 - ��![image alt]()
