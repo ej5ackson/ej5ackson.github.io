@@ -75,7 +75,7 @@ facilitating the crucial function of SIEM (Security Information and Event Manage
 •	To rigorously evaluate the resilience of the constructed defence system, I conducted simulations of diverse attacks using Kali Linux. These simulated attacks included common tactics such as brute force attempts, port scanning, and malware injection, allowing me to test the system's ability to detect and potentially block these threats.
 I emphasize that this practical project not only deepened my understanding of security architecture principles but also reinforced the critical importance of proactive surveillance and implementing multi-layered defences to effectively protect a network. I now eager to apply these acquired competencies in a professional cybersecurity role to help organizations anticipate and mitigate emerging risks.
 
-- [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- [LinkedIn Profile](www.linkedin.com/in/evans-martey-korley-jackson-5432ba359)
   
   ![image alt](https://github.com/ej5ackson/ej5ackson.github.io/blob/main/A%20screenshot%20illustrates%20Wazuh%20dashboard%20overview%20after%20the%20attack.jpg)
 - A screenshot illustrates Wazuh dashboard overview after the attack  
@@ -90,12 +90,21 @@ I emphasize that this practical project not only deepened my understanding of se
  ![image alt](https://github.com/ej5ackson/ej5ackson.github.io/blob/main/Wazuh%20dashboard%20illustrates%20a%20range%20of%20detected%20threats%20related%20to%20threat%20hunting.jpg)
 - A screenshot of Wazuh dashboard illustrates a range of detected threats related to threat hunting activities. It provides a visual representation of various attack types, highlighting the security incidents identified within the monitored environment, facilitating effective analysis and response to potential security threats.
    
-## Skills: Protecting digital assets through technical knowledge and practical application.
+## 7. Skills: 
+**Protecting digital assets through technical knowledge and practical application**.
+
 - **Technical Expertise**: Web &amp; Application Security, Penetration Testing,
 Risk Assessments, Network Security, Endpoint security,
 - **Tools**:Nmap, Metasploit, Wireshark, Google Cloud, Wazuh, PFSense, Qradar
+  
 ### GitHub Stats
-![GitHub Stats](https://github-readme-
-stats.vercel.app/api?username=yourusername&amp;show_icons=true&amp;theme=radical)
+
+![GitHub Stats](https://github.com/ej5ackson/ej5ackson.github.io.git)
+
 ### ✨ Fun Fact
-I&#39;m on a (fill in the gap).
+
+**Fun Cybersecurity Fact**: Did you know the first computer virus was called "Creeper" and appeared in the early 1970s?
+
+**Cybersecurity Fun Fact**: The term "firewall" in cybersecurity originated from the physical firewalls used to prevent the spread of fires in buildings.
+
+**A Fun Cybersecurity Tidbit**: Passwords like "123456" and "password" are still incredibly common, despite being extremely insecure.
