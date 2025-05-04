@@ -30,7 +30,11 @@ Project featured:
 I emphasize that this practical project not only deepened my understanding of security architecture principles but also reinforced the critical importance of proactive surveillance and implementing multi-layered defences to effectively protect a network. I now eager to apply these acquired competencies in a professional cybersecurity role to help organizations anticipate and mitigate emerging risks.
 - �� [LinkedIn Profile](https://linkedin.com/in/yourprofile)
 - ![image alt](https://github.com/ej5ackson/ej5ackson.github.io/blob/main/A%20screenshot%20illustrates%20Wazuh%20dashboard%20overview%20after%20the%20attack.jpg)
-- �� https://github.com/ej5ackson/ej5ackson.github.io/blob/main/A%20screenshot%20illustrates%20Wazuh%20dashboard%20overview%20after%20the%20attack.jpg
+- ![image alt]()
+- ![image alt]()
+- ![image alt]()
+- ![image alt]()
+- ��![image alt]()
 an external site)
 ### ��️ Skills
 - **Technical Expertise**: Web &amp; Application Security, Penetration Testing,
