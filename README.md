@@ -39,7 +39,8 @@ an external site)
 ### ��️ Skills
 - **Technical Expertise**: Web &amp; Application Security, Penetration Testing,
 Risk Assessments, Network Security, Endpoint security,
-- **Tools**: Nmap, Metasploit, Wireshark, Google Cloud, Wazuh, PFSense
+- **Tools**: , Metasploit, Wireshark, Google Cloud, Wazuh, PFSense
+- **Nmap**
 ### �� GitHub Stats
 ![GitHub Stats](https://github-readme-
 stats.vercel.app/api?username=yourusername&amp;show_icons=true&amp;theme=radical)
