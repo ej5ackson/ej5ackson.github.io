@@ -35,12 +35,10 @@ I emphasize that this practical project not only deepened my understanding of se
 - ![image alt](https://github.com/ej5ackson/ej5ackson.github.io/blob/main/Displays%20a%20screenshot%20of%20the%20Installed%20Rules%20and%20updating%20Snort%20settings%20on%20pfSense.jpg)
 - ![image alt](https://github.com/ej5ackson/ej5ackson.github.io/blob/main/Displays%20a%20screenshot%20of%20the%20capturing%20network%20traffic%2C%20focusing%20on%20HTTP%20in%20Wireshark.jpg)
 - ��![image alt](https://github.com/ej5ackson/ej5ackson.github.io/blob/main/Wazuh%20dashboard%20illustrates%20a%20range%20of%20detected%20threats%20related%20to%20threat%20hunting.jpg)
-an external site)
-### ��️ Skills
+## Skills: Protecting digital assets through technical knowledge and practical application.
 - **Technical Expertise**: Web &amp; Application Security, Penetration Testing,
 Risk Assessments, Network Security, Endpoint security,
-- **Tools**: , Metasploit, Wireshark, Google Cloud, Wazuh, PFSense
-- **Nmap**
+- **Tools**:Nmap, Metasploit, Wireshark, Google Cloud, Wazuh, PFSense, Qradar
 ### �� GitHub Stats
 ![GitHub Stats](https://github-readme-
 stats.vercel.app/api?username=yourusername&amp;show_icons=true&amp;theme=radical)
